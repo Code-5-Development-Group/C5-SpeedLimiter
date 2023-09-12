@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/web/build/static/js/bundle.js",
+    "index.html": "/web/build/index.html"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "main.1e857e13faf4408b10d5.hot-update.js"
+  ]
+}
